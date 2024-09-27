@@ -18,13 +18,20 @@ To leverage GitHub Copilot for Azure to streamline development processes and imp
 
 
 ### 1. Exercise 1: Setting Up GitHub Copilot for Azure
-- **Objective**: Configure GitHub Copilot for Azure (Preview)
-- **Steps**:
+
+**Objective**: Configure GitHub Copilot for Azure (Preview)
+**Steps**:
   1. [Install Visual Studio Code's GitHub Copilot extension](https://docs.github.com/en/copilot/quickstart)
   2. [**Install GitHub Copilot For Azure**](https://github.com/microsoft/GitHub-Copilot-for-Azure?tab=readme-ov-file#installation)
-  3. **Connect to Azure**: Set up Azure integration within Visual Studio Code. [Instructions](https://learn.microsoft.com/en-us/visualstudio/ide/visual-studio-github-copilot-install-and-states?view=vs-2022)
-  4. **Explore Features**: Use GitHub Copilot to generate code snippets and suggestions for Azure services.
-- **Outcome**: Participants will have GitHub Copilot chat set up and can use @azure
+  3. Test a few simple prompts
+     - Learning about Azure and its resources
+        @azure do static web apps support static ip addresses?
+        @azure what’s the difference between ACA and AKS?
+ 
+
+Getting information about your Azure resources
+@Azure what is the URL for my webapp named [name]?
+@Azure how many storage accounts do I have in eastus?
 
 ### 3. Exercise 2: Deploying a Web Application to Azure (45 minutes)
 - **Objective**: Use GitHub Copilot to deploy a web application to Azure.
