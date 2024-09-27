@@ -10,27 +10,21 @@ To leverage GitHub Copilot for Azure to streamline development processes and imp
 2-3 hours
 
 ## Prerequisites
-- Basic understanding of cloud computing and software development.
 - GitHub account and access to GitHub Copilot.
-- VSCode or Visual Studio. 
+- [Latest Visual Studio Code Insiders](https://code.visualstudio.com/insiders/)
 - MCAP Azure subscription.
 
 ## Agenda
 
-### 1. Introduction to GitHub Copilot for Azure (30 minutes)
-- **Presentation**: Overview of GitHub Copilot and its integration with Azure.
-  - What is GitHub Copilot?
-  - Benefits of using GitHub Copilot with Azure.
-  - Key features: AI-powered code completions, deployment guidance, and troubleshooting.
-- **Demo**: Live demonstration of GitHub Copilot in action within Visual Studio Code.
 
-### 2. Exercise 1: Setting Up GitHub Copilot for Azure (45 minutes)
-- **Objective**: Configure GitHub Copilot for use with Azure.
+### 1. Exercise 1: Setting Up GitHub Copilot for Azure
+- **Objective**: Configure GitHub Copilot for Azure (Preview)
 - **Steps**:
-  1. **Install GitHub Copilot Extension**: Add the GitHub Copilot extension to Visual Studio Code. [Instructions](https://docs.github.com/en/copilot/quickstart)
-  2. **Connect to Azure**: Set up Azure integration within Visual Studio Code. [Instructions](https://learn.microsoft.com/en-us/visualstudio/ide/visual-studio-github-copilot-install-and-states?view=vs-2022)
-  3. **Explore Features**: Use GitHub Copilot to generate code snippets and suggestions for Azure services.
-- **Outcome**: Participants will have GitHub Copilot set up and integrated with Azure.
+  1. [Install Visual Studio Code's GitHub Copilot extension](https://docs.github.com/en/copilot/quickstart)
+  2. [**Install GitHub Copilot For Azure**](https://github.com/microsoft/GitHub-Copilot-for-Azure?tab=readme-ov-file#installation)
+  3. **Connect to Azure**: Set up Azure integration within Visual Studio Code. [Instructions](https://learn.microsoft.com/en-us/visualstudio/ide/visual-studio-github-copilot-install-and-states?view=vs-2022)
+  4. **Explore Features**: Use GitHub Copilot to generate code snippets and suggestions for Azure services.
+- **Outcome**: Participants will have GitHub Copilot chat set up and can use @azure
 
 ### 3. Exercise 2: Deploying a Web Application to Azure (45 minutes)
 - **Objective**: Use GitHub Copilot to deploy a web application to Azure.
