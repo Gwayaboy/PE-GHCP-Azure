@@ -23,7 +23,7 @@ To leverage GitHub Copilot for Azure to streamline development and deployment pr
 
   Configure GitHub Copilot for Azure (Preview) with Visual Code Insider
 
-  ![image](/PE-GHCP-Azure/blob/main/images/azure_extension.png)
+  ![image](/images/azure_extension.png)
 
 **Steps**:
   1. [Install Visual Studio Code's GitHub Copilot extension](https://docs.github.com/en/copilot/quickstart)
@@ -47,7 +47,7 @@ To leverage GitHub Copilot for Azure to streamline development and deployment pr
     
       - Navigate to your resource and right click to use it in the context menu
 
-        ![image](images\contextualMenu.png)
+        ![image]([images](https://github.com/Gwayaboy/PE-GHCP-Azure/blob/main/images/contextualMenu.png)
       
 
 ### 3. Exercise 2: Deploying a Web Application with @azure
