@@ -19,7 +19,7 @@ To leverage GitHub Copilot for Azure to streamline development processes and imp
 
 ### 1. Exercise 1: Setting Up GitHub Copilot for Azure
 
-**Objective**: Configure GitHub Copilot for Azure (Preview)
+####  **Objective**: Configure GitHub Copilot for Azure (Preview)
 **Steps**:
   1. [Install Visual Studio Code's GitHub Copilot extension](https://docs.github.com/en/copilot/quickstart)
   2. [**Install GitHub Copilot For Azure**](https://github.com/microsoft/GitHub-Copilot-for-Azure?tab=readme-ov-file#installation)
