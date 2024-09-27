@@ -23,7 +23,7 @@ To leverage GitHub Copilot for Azure to streamline development and deployment pr
 
   Configure GitHub Copilot for Azure (Preview) with Visual Code Insider
 
-  ![image](\images\azure_extension.png)
+  ![image](https://github.com/Gwayaboy/PE-GHCP-Azure/blob/main/images/azure_extension.png)
 
 **Steps**:
   1. [Install Visual Studio Code's GitHub Copilot extension](https://docs.github.com/en/copilot/quickstart)
