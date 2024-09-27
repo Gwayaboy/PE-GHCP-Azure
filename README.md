@@ -49,18 +49,24 @@ To leverage GitHub Copilot for Azure to streamline development and deployment pr
       
 
 ### 3. Exercise 2: Deploying a Web Application with @azure
-- **Objective**:
- Use GitHub Copilot @azure to deploy a web application to Azure.
-- **Steps**:
+
+**Objective**:
+
+Use GitHub Copilot @azure to deploy a web application to Azure.
+ 
+**Steps**:
   1. **Create a New Project**: Initialize a new web application project (e.g., using Node.js or Python).
  
-- **Outcome**: Participants will deploy a web application to Azure using GitHub Copilot.
+**Outcome**: Participants will deploy a web application to Azure using GitHub Copilot.
 
 ### 4. Exercise 3: Implementing CI/CD with GitHub Actions 
-- **Objective**:
+
+**Objective**:
 Set up a CI/CD pipeline using GitHub Actions and GitHub Copilot.
-- **Steps**:
-- **Outcome**: Participants will have a CI/CD pipeline set up for their web application.
+
+**Steps**:
+
+**Outcome**: Participants will have a CI/CD pipeline set up for their web application.
 
 ---
 
