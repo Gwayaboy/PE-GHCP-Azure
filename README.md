@@ -12,7 +12,8 @@ To leverage GitHub Copilot for Azure to streamline development processes and imp
 ## Prerequisites
 - Basic understanding of cloud computing and software development.
 - GitHub account and access to GitHub Copilot.
-- Azure subscription.
+- VSCode or Visual Studio. 
+- MCAP Azure subscription.
 
 ## Agenda
 
