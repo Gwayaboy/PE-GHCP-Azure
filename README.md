@@ -1,7 +1,5 @@
-# PE-GHCP-Azure
-Simple Mini-Hack to show some aspect of Platform Engineering to surface it as a service through GitHub copilot extensions like GHCP for azure
-
 # Hackathon: Improve Platform Engineering experience with GitHub Copilot for Azure 
+Simple Mini-Hack to show some aspect of Platform Engineering to surface it as a service through GitHub copilot extensions like GHCP for azure
 
 ## Objective
 To leverage GitHub Copilot for Azure to streamline development and deployment processes and improve productivity.
@@ -51,23 +49,18 @@ To leverage GitHub Copilot for Azure to streamline development and deployment pr
       
 
 ### 3. Exercise 2: Deploying a Web Application with @azure
-- **Objective**: Use GitHub Copilot @azure to deploy a web application to Azure.
+- **Objective**:
+ Use GitHub Copilot @azure to deploy a web application to Azure.
 - **Steps**:
   1. **Create a New Project**: Initialize a new web application project (e.g., using Node.js or Python).
  
 - **Outcome**: Participants will deploy a web application to Azure using GitHub Copilot.
 
-### 4. Exercise 3: Implementing CI/CD with GitHub Actions (30 minutes)
-- **Objective**: Set up a CI/CD pipeline using GitHub Actions and GitHub Copilot.
+### 4. Exercise 3: Implementing CI/CD with GitHub Actions 
+- **Objective**:
+Set up a CI/CD pipeline using GitHub Actions and GitHub Copilot.
 - **Steps**:
-  1. **Create a GitHub Repository**: Push the web application project to a new GitHub repository.
-  2. **Set Up GitHub Actions**: Use GitHub Copilot to create a GitHub Actions workflow for continuous integration and deployment.
-  3. **Test the Pipeline**: Make a code change and observe the CI/CD pipeline in action.
 - **Outcome**: Participants will have a CI/CD pipeline set up for their web application.
-
-### 5. Wrap-Up and Q&A (30 minutes)
-- **Review**: Summarize key learnings and discuss challenges faced during the exercises.
-- **Q&A**: Open floor for questions and feedback.
 
 ---
 
