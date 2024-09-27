@@ -47,7 +47,7 @@ To leverage GitHub Copilot for Azure to streamline development and deployment pr
     
       - Navigate to your resource and right click to use it in the context menu
 
-        ![image]([images](https://github.com/Gwayaboy/PE-GHCP-Azure/blob/main/images/contextualMenu.png)
+        ![image](/images/contextualMenu.png)
       
 
 ### 3. Exercise 2: Deploying a Web Application with @azure
