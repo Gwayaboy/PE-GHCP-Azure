@@ -41,7 +41,10 @@ To leverage GitHub Copilot for Azure to streamline development and deployment pr
 
   4. You can find a shortcut to chat with @azure in the context menu for resources in the Azure Extensions: 
     
-      - In Visual Studio Code Insiders, open the command pallete via <kbd>F1</kbd> or <kbd>Ctrl/Cmd</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd>, and run the command "Extensions: Install Extensions...",
+      - In Visual Studio Code Insiders, open the command pallete via <kbd>F1</kbd> or <kbd>Ctrl/Cmd</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd>, and run the command "Extensions: Install Extensions..."
+        
+      - Search for [Azure Resources](https://marketplace.visualstudio.com/tems?itemName=ms-azuretools.vscode-azureresourcegroups) and install it
+     
     
       - Navigate to your resource and right click to use it in the context menu
 
