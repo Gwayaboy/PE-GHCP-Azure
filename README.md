@@ -73,9 +73,9 @@ To leverage GitHub Copilot for Azure to streamline development and deployment pr
         npm install
         ```
       - Run the Application Locally:
-      ```bash
-      npm start
-      ```
+        ```bash
+        npm start
+        ```
       - Open your browser and go to `http://localhost:5000` to see the app running.
   
   2. **Deploying to Azure**  
