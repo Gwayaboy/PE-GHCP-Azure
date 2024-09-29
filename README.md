@@ -15,13 +15,13 @@ To leverage GitHub Copilot for Azure to streamline development and deployment pr
 ## Agenda
 
 
-### 1. Exercise 1: Setting Up GitHub Copilot for Azure
+### Exercise 1: Setting Up GitHub Copilot for Azure
 
 ####  **Objective**: 
 
-  Configure GitHub Copilot for Azure (Preview) with Visual Code Insider
+  - Configure GitHub Copilot for Azure (Preview) with Visual Code Insider
 
-  ![image](/images/azure_extension.png)
+    ![image](/images/azure_extension.png)
 
 **Steps**:
   1. [Install Visual Studio Code's GitHub Copilot extension](https://docs.github.com/en/copilot/quickstart)
@@ -51,11 +51,11 @@ To leverage GitHub Copilot for Azure to streamline development and deployment pr
         ![image](/images/contextualMenu.png)
       
 
-### 2. Exercise 2: Deploying a Web Application with @azure ([GitHub Copilot For Azure](https://techcommunity.microsoft.com/t5/microsoft-developer-community/introducing-github-copilot-for-azure-your-cloud-coding-companion/ba-p/4127644))
+### Exercise 2: Deploying a Web Application with @azure ([GitHub Copilot For Azure](https://techcommunity.microsoft.com/t5/microsoft-developer-community/introducing-github-copilot-for-azure-your-cloud-coding-companion/ba-p/4127644))
 
 **Objective**:
 
-Use GitHub Copilot @azure to deploy a web application to Azure.
+- Use GitHub Copilot @azure to deploy a web application to Azure.
  
 **Steps**:
   1. **Create a New Project**: Initialize a new web application project (e.g., using Node.js or Python).
@@ -69,7 +69,8 @@ Set up a CI/CD pipeline using GitHub Actions and GitHub Copilot.
 
 **Steps**:
 
-**Outcome**: Participants will have a CI/CD pipeline set up for their web application.
+**Outcome**: 
+- Participants will have a CI/CD pipeline set up for their web application.
 
 ---
 
