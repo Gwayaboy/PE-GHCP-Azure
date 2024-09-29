@@ -77,40 +77,24 @@ To leverage GitHub Copilot for Azure to streamline development and deployment pr
         npm start
         ```
       - Open your browser and go to `http://localhost:5000` to see the app running.
+      - When you're ready close the application from the terminal with <kbd>Ctrl/Cmd</kbd> + <kbd>C</kbd> 
   
-  2. **Deploying to Azure**  
+  2. **Setting up a CI/CD pipeline using GitHub Actions and GitHub Copilot for Azure to deploy NodeJs web aoo to Azure**  
     
-     - In Github copilot chat ype `@azure create web app` and follow the prompts to create a new Azure Web App.
+     -  Use GitHub Copilot Chat to generate deployment scripts. Here is an example prompts to get your started:
+        **Prompt 1**:
+        ```plaintext
+        How do I create a GitHub Action to deploy my Node.js app using azd?
+        ```
+        **Prompt 2**:
+         ```plaintext
+        @azure Generate a GitHub Actions workflow to deploy my app to Azure App Service.
+        ```
+        **Prompt 3**:
+        ```plaintext
+        @azure What are the steps to configure continuous deployment for my web app using GitHub Actions?
 
-### Deploy the App
-
-1. **Generate Deployment Scripts**:
-   - Use GitHub Copilot Chat to generate deployment scripts. Here are some example prompts:
-
-     **Prompt 1**:
-     ```plaintext
-     @azure How do I deploy my Node.js app to Azure App Service?
-     ```
-
-     **Prompt 2**:
-     ```plaintext
-     @azure Generate a GitHub Actions workflow to deploy my app to Azure App Service.
-     ```
-
-     **Prompt 3**:
-     ```plaintext
-     @azure What are the steps to configure continuous deployment for my web app using GitHub Actions?
-     ```
-
-### 4. Exercise 3: Implementing CI/CD with GitHub Actions 
-
-**Objective**:
-Set up a CI/CD pipeline using GitHub Actions and GitHub Copilot.
-
-**Steps**:
-
-**Outcome**: 
-- Participants will have a CI/CD pipeline set up for their web application.
+        ```
 
 
 
