@@ -51,7 +51,7 @@ To leverage GitHub Copilot for Azure to streamline development and deployment pr
         ![image](/images/contextualMenu.png)
       
 
-### 3. Exercise 2: Deploying a Web Application with @azure
+### 2. Exercise 2: Deploying a Web Application with @azure ([GitHub Copilot For Azure](https://techcommunity.microsoft.com/t5/microsoft-developer-community/introducing-github-copilot-for-azure-your-cloud-coding-companion/ba-p/4127644))
 
 **Objective**:
 
