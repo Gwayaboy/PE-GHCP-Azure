@@ -58,9 +58,49 @@ To leverage GitHub Copilot for Azure to streamline development and deployment pr
 - Use GitHub Copilot @azure to deploy a web application to Azure.
  
 **Steps**:
-  1. **Create a New Project**: Initialize a new web application project (e.g., using Node.js or Python).
- 
-**Outcome**: Participants will deploy a web application to Azure using GitHub Copilot.
+  1. **Cloning and Running a Simple Web App:**     
+  
+      - [Install Node.js and npm locally](https://www.geeksforgeeks.org/how-to-install-node-run-npm-in-vs-code/)                 
+      - open a new Terminal with <kbd>Ctrl/Cmd</kbd> + <kbd>Shift</kbd> + <kbd>'</kbd>
+      - Clone the repository    
+        ```bash
+        git clone https://github.com/heroku/node-js-getting-started.git
+        cd node-js-getting-started
+        ```
+
+      - Install Dependencies:
+        ```bash
+        npm install
+        ```
+      - Run the Application Locally:
+      ```bash
+      npm start
+      ```
+      - Open your browser and go to `http://localhost:5000` to see the app running.
+  
+  2. **Deploying to Azure**  
+    
+     - In Github copilot chat ype `@azure create web app` and follow the prompts to create a new Azure Web App.
+
+### Deploy the App
+
+1. **Generate Deployment Scripts**:
+   - Use GitHub Copilot Chat to generate deployment scripts. Here are some example prompts:
+
+     **Prompt 1**:
+     ```plaintext
+     @azure How do I deploy my Node.js app to Azure App Service?
+     ```
+
+     **Prompt 2**:
+     ```plaintext
+     @azure Generate a GitHub Actions workflow to deploy my app to Azure App Service.
+     ```
+
+     **Prompt 3**:
+     ```plaintext
+     @azure What are the steps to configure continuous deployment for my web app using GitHub Actions?
+     ```
 
 ### 4. Exercise 3: Implementing CI/CD with GitHub Actions 
 
@@ -72,7 +112,10 @@ Set up a CI/CD pipeline using GitHub Actions and GitHub Copilot.
 **Outcome**: 
 - Participants will have a CI/CD pipeline set up for their web application.
 
----
 
-This hackathon will help participants get hands-on experience with GitHub Copilot for Azure, enhancing their development workflows and productivity. Enjoy the hackathon! 🚀
+
+
+
+
+
 
