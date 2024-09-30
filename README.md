@@ -78,7 +78,7 @@ To leverage GitHub Copilot for Azure to streamline development and deployment pr
         ```
       - Open your browser and go to <a href="http://localhost:5001" target="_blank">http://localhost:5001</a>
  to see the app running.
-      - When you're ready close the application from the terminal with <kbd>Ctrl/Cmd</kbd> + <kbd>C</kbd> 
+      - When you're ready close the application from the terminal press  <kbd>Ctrl/Cmd</kbd> + <kbd>C</kbd> simultaneously
   
   2. **Setting up a CI/CD pipeline using GitHub Actions and GitHub Copilot for Azure to deploy NodeJs web aoo to Azure**  
     
