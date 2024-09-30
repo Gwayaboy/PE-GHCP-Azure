@@ -9,7 +9,7 @@ To leverage GitHub Copilot for Azure to streamline development and deployment pr
 
 ## Prerequisites
 - GitHub account and access to GitHub Copilot.
-- <a [href="http://localhost:5001](https://code.visualstudio.com/insiders/)" target="_blank">Latest Visual Studio Code Insiders</a>
+- <a href="https://code.visualstudio.com/insiders/" target="_blank">Latest Visual Studio Code Insiders</a>
 - MCAP Azure subscription.
 
 ## Agenda
