@@ -33,13 +33,13 @@ To leverage GitHub Copilot for Azure to streamline development and deployment pr
 
        However in my infinite kindness I spared you the trouble and added detailed instructions
 
-      1. Install the latest [Visual Studio Code Insiders](https://code.visualstudio.com/insiders/).
-      2. Make sure you are on the latest Visual Studio Code Insiders, open the command palette via <kbd>F1</kbd> or <kbd>Ctrl/Cmd</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> and run the command "Code - Insiders: Check for Updates..."
-      3. Install/update to the latest version of `GitHub Copilot` and the latest **pre-release** version of `GitHub Copilot Chat` extension from the marketplace. To reemphasize, `GitHub Copilot Chat` must be the **pre-release** version.
-      4. Visit the [Latest Release](https://github.com/microsoft/azure-github-copilot-extension/releases) page.
-      5. Download the .VSIX file for the extension.
-      6. In Visual Studio Code Insiders, open the command palette via <kbd>F1</kbd> or <kbd>Ctrl/Cmd</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd>, and run the command "Extensions: Install from VSIX...", and then navigate to your downloaded VSIX and install it.
-      7. Restart Visual Studio Code Insiders.
+       - Install the latest [Visual Studio Code Insiders](https://code.visualstudio.com/insiders/).
+      -  Make sure you are on the latest Visual Studio Code Insiders, open the command palette via <kbd>F1</kbd> or <kbd>Ctrl/Cmd</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> and run the command "Code - Insiders: Check for Updates..."
+      - Install/update to the latest version of `GitHub Copilot` and the latest **pre-release** version of `GitHub Copilot Chat` extension from the marketplace. To reemphasize, `GitHub Copilot Chat` must be the **pre-release** version.
+      -  Visit the [Latest Release](https://github.com/microsoft/azure-github-copilot-extension/releases) page.
+      - Download the .VSIX file for the extension.
+      - In Visual Studio Code Insiders, open the command palette via <kbd>F1</kbd> or <kbd>Ctrl/Cmd</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd>, and run the command "Extensions: Install from VSIX...", and then navigate to your downloaded VSIX and install it.
+         Restart Visual Studio Code Insiders.
 
       </details>
 
