@@ -26,9 +26,6 @@ To leverage GitHub Copilot for Azure to streamline development and deployment pr
 **Steps**:
   1. [Install Visual Studio Code's GitHub Copilot extension](https://docs.github.com/en/copilot/quickstart)
 
-      
-
-
   2. [Install GitHub Copilot For Azure](https://github.com/microsoft/GitHub-Copilot-for-Azure?tab=readme-ov-file#installation)
 
       <details>
@@ -109,7 +106,7 @@ To leverage GitHub Copilot for Azure to streamline development and deployment pr
      -  Use GitHub Copilot Chat to generate deployment scripts. Here is an example prompts to get your started:
         **Prompt 1**:
         ```plaintext
-        How do I create a GitHub Action to deploy my Node.js app using azd?
+        @azure How do I create a GitHub Action to deploy my Node.js app using azd?
         ```
         **Prompt 2**:
          ```plaintext
