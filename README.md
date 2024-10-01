@@ -26,6 +26,11 @@ To leverage GitHub Copilot for Azure to streamline development and deployment pr
 **Steps**:
   1. [Install Visual Studio Code's GitHub Copilot extension](https://docs.github.com/en/copilot/quickstart)
 
+      
+
+
+  2. [Install GitHub Copilot For Azure](https://github.com/microsoft/GitHub-Copilot-for-Azure?tab=readme-ov-file#installation)
+
       <details>
       <summary>If you can't access the link above expand detailed instructions below</summary>
 
@@ -40,10 +45,7 @@ To leverage GitHub Copilot for Azure to streamline development and deployment pr
       6. In Visual Studio Code Insiders, open the command palette via <kbd>F1</kbd> or <kbd>Ctrl/Cmd</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd>, and run the command "Extensions: Install from VSIX...", and then navigate to your downloaded VSIX and install it.
       7. Restart Visual Studio Code Insiders.
 
-      </details>
-
-
-  2. [Install GitHub Copilot For Azure](https://github.com/microsoft/GitHub-Copilot-for-Azure?tab=readme-ov-file#installation)
+    </details>
   3. Invoke the @azure copilot extension by putting @azure before your query with a few simple prompts:
       - Learning about Azure and its resources        
         ```
