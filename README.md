@@ -45,9 +45,7 @@ To leverage GitHub Copilot for Azure to streamline development and deployment pr
 
       </details>
 
-
-  2. [Install GitHub Copilot For Azure](https://github.com/microsoft/GitHub-Copilot-for-Azure?tab=readme-ov-file#installation)
-  3. Invoke the @azure copilot extension by putting @azure before your query with a few simple prompts:
+  2. Invoke the @azure copilot extension by putting @azure before your query with a few simple prompts:
       - Learning about Azure and its resources        
         ```
         @azure do static web apps support static ip addresses?        
