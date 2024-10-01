@@ -29,8 +29,9 @@ To leverage GitHub Copilot for Azure to streamline development and deployment pr
       <details>
       <summary>If you can't access the link above expand detailed instructions below</summary>
 
-      To access https://docs.github.com/en/copilot/quickstart you need to be added to the Microsoft Organisation and log through your <alias>_msft GitHub handle.
-      However in my infinite kindness I spared you the trouble and added detailed instructions
+      Baciallcy to access https://docs.github.com/en/copilot/quickstart you need to be added to the Microsoft Organisation and log through your <alias>_msft GitHub handle.
+
+       However in my infinite kindness I spared you the trouble and added detailed instructions
 
       1. Install the latest [Visual Studio Code Insiders](https://code.visualstudio.com/insiders/).
       2. Make sure you are on the latest Visual Studio Code Insiders, open the command palette via <kbd>F1</kbd> or <kbd>Ctrl/Cmd</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> and run the command "Code - Insiders: Check for Updates..."
@@ -43,8 +44,8 @@ To leverage GitHub Copilot for Azure to streamline development and deployment pr
       </details>
 
 
-  2. [Install GitHub Copilot For Azure](https://github.com/microsoft/GitHub-Copilot-for-Azure?tab=readme-ov-file#installation)
-  3. Invoke the @azure copilot extension by putting @azure before your query with a few simple prompts:
+  3. [Install GitHub Copilot For Azure](https://github.com/microsoft/GitHub-Copilot-for-Azure?tab=readme-ov-file#installation)
+  4. Invoke the @azure copilot extension by putting @azure before your query with a few simple prompts:
       - Learning about Azure and its resources        
         ```
         @azure do static web apps support static ip addresses?        
@@ -57,7 +58,7 @@ To leverage GitHub Copilot for Azure to streamline development and deployment pr
 
       More sample questions [here](https://github.com/microsoft/GitHub-Copilot-for-Azure?tab=readme-ov-file#sample-questions)
 
-  4. You can find a shortcut to chat with @azure in the context menu for resources in the Azure Extensions: 
+  5. You can find a shortcut to chat with @azure in the context menu for resources in the Azure Extensions: 
     
       - In Visual Studio Code Insiders, open the command pallete via <kbd>F1</kbd> or <kbd>Ctrl/Cmd</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd>, and run the command "Extensions: Install Extensions..."
         
